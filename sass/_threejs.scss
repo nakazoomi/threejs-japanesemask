@@ -1,0 +1,12 @@
+// THREE JS 
+
+#threejs-canvas {
+    height: 100vh!important;
+    width: 100vw!important;
+
+    background-color: #121212;
+
+    // filter: saturate(1) invert(1) hue-rotate(90deg) contrast(1);
+
+    filter: invert(1) saturate(20);
+}
